@@ -1,0 +1,15 @@
+Start,End,Free Pass,Reason,Description
+81,94,42,Debris,Debris pit road
+101,107,19,Accident,"#35, 48 incident turn 2"
+127,137,43,Competition,Stage 1 Conclusion
+148,155,20,Accident,"#47, 88, 43, 71 incident frontstretch"
+239,246,-,Accident,"#24, 88 incident turn 4"
+252,265,24,Competition,Stage 2 Conclusion
+270,276,71,Accident,"#10, 88 incident turn 1"
+282,288,16,Accident,"#10, 41 incident turn 1"
+294,300,1,Accident,"#10, 4, incident backstretch"
+312,329,45,Accident,"#9, 42 incident turn 3"
+355,361,7,Accident,"#23, 47 incident turn 1"
+366,373,47,Spin,#5 spin turn 4
+385,397,8,Accident,"#11, 24, 16 incident turn 4"
+489,496,24,Accident,"#23, 41 incident turn 2"
