@@ -3,7 +3,7 @@ from src.races import get_race_ids
 from src.tracks import get_track_info
 from src.laps import get_lap_data
 from src.results import get_result_data
-from src.pit_data import fetch_pit_data
+from src.pit_stop import fetch_pit_data
 
 def process_season(year, series_key, series_num):
     
