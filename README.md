@@ -15,7 +15,7 @@ It includes:
 - Driver performance tracking
 - Feature engineering for future predictive modeling
 
-The final output is used in a Power BI dashboard to explore race trends, driver performance, and historical comparisons.
+The final output is clean, structured data to be used in additional analytics + data science projects. 
 
 ---
 
