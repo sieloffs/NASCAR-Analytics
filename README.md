@@ -1,0 +1,50 @@
+# NASCAR Analytics & Race Prediction Pipeline
+
+An end-to-end data engineering and analytics project that scrapes NASCAR race data, builds structured datasets (laps, pit stops, results), and powers an interactive Power BI dashboard for race analysis and performance insights.
+
+---
+
+## Project Overview
+
+This project collects and processes NASCAR race data from public APIs and transforms it into structured datasets for analysis and visualization.
+
+It includes:
+- Race schedule and track data
+- Lap data
+- Pit stop data
+- Driver performance tracking
+- Feature engineering for future predictive modeling
+
+The final output is used in a Power BI dashboard to explore race trends, driver performance, and historical comparisons.
+
+---
+
+## Key Features
+
+- Automated scraping of NASCAR race, lap, and pit data
+- Python ETL pipeline
+- Season level data aggregation
+- Feature engineering (tire age, pit strategy, position changes, etc.)
+- Power BI ready datasets
+- Foundation for win probability / race prediction modeling
+
+---
+
+## Project Structure
+
+```text
+src/
+  races.py
+  laps.py
+  pit_data.py
+  tracks.py
+  drivers.py
+  process_season.py
+  main.py
+
+data/
+  raw/
+  processed/
+
+powerbi/
+  NASCAR_Dashboard.pbix
