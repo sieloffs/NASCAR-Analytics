@@ -43,11 +43,5 @@ src/
   results.py
   process_season.py
 
-data/
-  raw/
-  processed/
-
-powerbi/
-  NASCAR_Dashboard.pbix
 
 
