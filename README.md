@@ -33,7 +33,7 @@ The final output is used in a Power BI dashboard to explore race trends, driver 
 
 ## Design
 
-- Each module is responsible for a single data source (laps, pit stops, results, tracks). These can be found under the src folder explained below.
+- Each module is responsible for a single data source (laps, pit stops, results, tracks). These can be found in the src folder explained below.
 - `process_season()` acts as an orchestration layer for a full season of data
 - `main.py` handles multi-season and multi-series execution
 
