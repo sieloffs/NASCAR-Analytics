@@ -1,4 +1,4 @@
-# NASCAR Analytics & Race Prediction Pipeline
+# NASCAR Analytics Data Pipeline
 
 An end-to-end data engineering and analytics project that scrapes NASCAR race data, builds structured datasets (laps, pit stops, results), and powers an interactive Power BI dashboard for race analysis and performance insights.
 
