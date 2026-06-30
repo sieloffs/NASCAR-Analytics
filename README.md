@@ -34,13 +34,14 @@ The final output is used in a Power BI dashboard to explore race trends, driver 
 
 ```text
 src/
-  races.py
+  drivers.py
   laps.py
-  pit_data.py
+  pit_stop.py
   tracks.py
   drivers.py
+  races.py
+  results.py
   process_season.py
-  main.py
 
 data/
   raw/
@@ -48,3 +49,5 @@ data/
 
 powerbi/
   NASCAR_Dashboard.pbix
+
+
